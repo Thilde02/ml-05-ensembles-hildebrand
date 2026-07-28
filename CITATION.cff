@@ -11,7 +11,7 @@
 cff-version: "1.2.0"
 type: software
 
-title: "ml-05-ensembles"
+title: "ml-05-ensembles-hildebrand"
 version: "0.1.0"
 date-released: "2026-06-16"
 
@@ -21,8 +21,8 @@ authors:
     orcid: "https://orcid.org/0000-0001-6165-7389"
     affiliation: "Northwest Missouri State University, School of Computer Science and Information Systems, Maryville, MO, USA"
 
-repository-code: "https://github.com/denisecase/ml-05-ensembles"
-url: "https://github.com/denisecase/ml-05-ensembles"
+repository-code: "https://github.com/Thilde02/ml-05-ensembles-hildebrand"
+url: "https://github.com/Thilde02/ml-05-ensembles-hildebrand"
 license: MIT
 
 abstract: >

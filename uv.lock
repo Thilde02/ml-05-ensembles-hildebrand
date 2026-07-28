@@ -785,7 +785,7 @@ wheels = [
 ]
 
 [[package]]
-name = "ml-05-ensembles"
+name = "ml-05-ensembles-hildebrand"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [
